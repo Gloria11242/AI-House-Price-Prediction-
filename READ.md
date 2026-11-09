@@ -101,6 +101,14 @@ streamlit run app.py
 - Improve interactive visualizations.
 - Explore model deployment and cloud hosting.
 
+## 🚀 Live Application
+
+Explore the deployed House Price Prediction application:
+
+**[Launch House Price Prediction App](https://ai-house-price-prediction-a2accuxdnxbwa8vdzq2mix.streamlit.app)**
+
+Built using Python, Scikit-learn, Random Forest Regression and Streamlit.
+
 ## 9. Author
 
 **Gloria Nkum**
